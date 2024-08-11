@@ -9,9 +9,8 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Naitik Sharma </span>
-            from <span className="purple"> Kolkata, India.</span>
-            <br />Being a Tech Enthusiast , currently pursuing my Bachaelors in
-            Computer Science & Engineering in ACEIT ,Jaipur.
+            from <span className="purple"> Jaipur, India.</span>
+            <br />Being a Software Engineer ,having a strong foundation in java and javascript complimented by 2 years of Freelancing and 1+ year of Internship experiences at prominent companies like Paytm, Helpy Moto, Webknot Technologies.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

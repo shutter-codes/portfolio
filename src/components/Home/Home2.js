@@ -19,11 +19,11 @@ function Home2() {
             </h1>
             <p className="home-about-body">
               I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              something as i backed with more than 3+ Internships and Freelancing projects, I think… 🤷‍♂️
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> Java, Javascript and Python. </b>
+                <b className="purple"> Java, Javascript and its frameworks. </b>
               </i>
               <br />
               <br />
@@ -32,7 +32,7 @@ function Home2() {
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Node JS and Firebase.
+                 React js and node js.
                 </b>
               </i>
               <br />
